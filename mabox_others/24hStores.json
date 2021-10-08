@@ -1,0 +1,357 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "16",
+        "Name": "Florentino",
+        "Location": "80 Bourke St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.971049,
+          -37.809915
+        ],
+        "type": "Point"
+      },
+      "id": "03bb48b6b46a042b94b259d473266d58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "4",
+        "Name": "7-Eleven William Street",
+        "Location": "261 William St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956929,
+          -37.811346
+        ],
+        "type": "Point"
+      },
+      "id": "1b47c874226683e59e914fc230afb031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "18",
+        "Name": "Dee Casa - Restaurant & Bar",
+        "Location": "139 City Rd, Southbank VIC 3006"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963082,
+          -37.821565
+        ],
+        "type": "Point"
+      },
+      "id": "351705da45106ecb0be27ab6252d87db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "7",
+        "Name": "7-Eleven 600 Collins St",
+        "Location": "10/600 Collins St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.954869,
+          -37.816974
+        ],
+        "type": "Point"
+      },
+      "id": "41308452dfb21423d610b53583744f86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "2",
+        "Name": "7-Eleven Vic Market",
+        "Location": "463 Elizabeth St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.960321,
+          -37.806605
+        ],
+        "type": "Point"
+      },
+      "id": "460fe44800b5c906e2576e72a1a983e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "9",
+        "Name": "7-Eleven Melb Swanston St",
+        "Location": "37 Swanston St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.967572,
+          -37.815075
+        ],
+        "type": "Point"
+      },
+      "id": "4e4a759e956c5cb5ad4ad92b26ca05c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "22",
+        "Name": "HealthSmart Pharmacy VCCC",
+        "Location": "311 Grattan St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956478,
+          -37.798145
+        ],
+        "type": "Point"
+      },
+      "id": "6be1d04b5c575b907ab9ead89b6133fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "20",
+        "Name": "Golden Anise Pho",
+        "Location": "2 McKillop St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961694,
+          -37.81378
+        ],
+        "type": "Point"
+      },
+      "id": "86d0f51a9327c46807f9b12ce901c290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "8",
+        "Name": "7-Eleven King St",
+        "Location": "Meeting room/620 Bourke St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955127,
+          -37.814668
+        ],
+        "type": "Point"
+      },
+      "id": "98eff97095fba9f23a8d849e44160460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "21",
+        "Name": "McDonald's Victoria Markets",
+        "Location": "501-503 Elizabeth St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.959548,
+          -37.80571
+        ],
+        "type": "Point"
+      },
+      "id": "9e065f2ac9565de50c476b114906d6fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "14",
+        "Name": "EzyMart",
+        "Location": "395 Swanston St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963466,
+          -37.807757
+        ],
+        "type": "Point"
+      },
+      "id": "a044a0bd8bdb06de0a7c9b4e79647c16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "11",
+        "Name": "7-Eleven Exhibition Street",
+        "Location": "237 Exhibition St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96946,
+          -37.808362
+        ],
+        "type": "Point"
+      },
+      "id": "a1bdad5abf103c0d3bbefd8d7b41fe60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "15",
+        "Name": "Cafe Soho",
+        "Location": "235 Bourke St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966586,
+          -37.81168
+        ],
+        "type": "Point"
+      },
+      "id": "b8a410c3ee0a44726fa34f58c9354d52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "3",
+        "Name": "7-Eleven Latrobe Street",
+        "Location": "67/211 La Trobe St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961564,
+          -37.808973
+        ],
+        "type": "Point"
+      },
+      "id": "c4f1e1983940ce718397f745cdcb8b13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "13",
+        "Name": "7-Eleven Royal Melbourne",
+        "Location": "45 Flemington Rd, North Melbourne VIC 3051"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955428,
+          -37.798527
+        ],
+        "type": "Point"
+      },
+      "id": "c6a4cc04cde1a8a4896285c898aff2b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "5",
+        "Name": "7-Eleven Melb Queen St",
+        "Location": "228 Queen St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.960105,
+          -37.811482
+        ],
+        "type": "Point"
+      },
+      "id": "cb9feedb5ca41fdb4e4d9bdc3730d23b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "17",
+        "Name": "ShaXian Snacks",
+        "Location": "220 Bourke St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96693,
+          -37.811135
+        ],
+        "type": "Point"
+      },
+      "id": "d48b7d8d2acd91566b1a9ffd98b63eaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "1",
+        "Name": "O2shop",
+        "Location": "118 A'Beckett St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.95972,
+          -37.807893
+        ],
+        "type": "Point"
+      },
+      "id": "eb8b6cdcf290a769b371a27d29054464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "19",
+        "Name": "Rocket Burgers & Fries",
+        "Location": "9a/276 Flinders St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965646,
+          -37.815363
+        ],
+        "type": "Point"
+      },
+      "id": "ef90fe96eeb597cc562576436d0c3f87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "10",
+        "Name": "7-Eleven Melb 190 Bourke",
+        "Location": "190 Bourke St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.967744,
+          -37.811142
+        ],
+        "type": "Point"
+      },
+      "id": "f2998ea54e7301055b840526f36b27a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "12",
+        "Name": "7-Eleven Melb Bourke St",
+        "Location": "35 Bourke St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.97255,
+          -37.810532
+        ],
+        "type": "Point"
+      },
+      "id": "f529a39d654e9a885fa6a4c654c254a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Store ID": "6",
+        "Name": "7-Eleven Collins St",
+        "Location": "446 Collins St, Melbourne VIC 3000"
+      },
+      "geometry": {
+        "coordinates": [
+          144.959418,
+          -37.815753
+        ],
+        "type": "Point"
+      },
+      "id": "fb34ec3c4e6497157f047e7f1868235b"
+    }
+  ],
+  "type": "FeatureCollection"
+}

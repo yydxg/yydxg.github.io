@@ -1,0 +1,770 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders St and St Kilda Rd",
+        "coordinates": "['144.967754', '-37.817565']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.967754,
+          -37.817565
+        ],
+        "type": "Point"
+      },
+      "id": "03f997e5b176c072fe1067fc19c9b578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders Street Station",
+        "coordinates": "['144.963999', '-37.818684']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963999,
+          -37.818684
+        ],
+        "type": "Point"
+      },
+      "id": "044ae640492e68ee034d124770df5202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Treasury Place",
+        "coordinates": "['144.974256', '-37.813496']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.974256,
+          -37.813496
+        ],
+        "type": "Point"
+      },
+      "id": "04ca130b003bc728b8f959bfc8f5ec6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders Ln and Elizabeth St",
+        "coordinates": "['144.964771', '-37.81709']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964771,
+          -37.81709
+        ],
+        "type": "Point"
+      },
+      "id": "0832a502125f3e95f2cbb9ff67e04af6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bourke St and Exhibition St",
+        "coordinates": "['144.970618', '-37.811937']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.970618,
+          -37.811937
+        ],
+        "type": "Point"
+      },
+      "id": "09264dba383c9d5cfa384f3009299b0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Little Collins St and Queen St",
+        "coordinates": "['144.961424', '-37.815954']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961424,
+          -37.815954
+        ],
+        "type": "Point"
+      },
+      "id": "13d290b566ee040b13a70b55bf57a29d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Spencer St and Lonsdale St",
+        "coordinates": "['144.952712', '-37.815259']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.952712,
+          -37.815259
+        ],
+        "type": "Point"
+      },
+      "id": "1e32a68c2611b9989d89874402615c3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bourke St",
+        "coordinates": "['144.964406', '-37.813886']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964406,
+          -37.813886
+        ],
+        "type": "Point"
+      },
+      "id": "1e872b7b682b15b144746f9e6bdb4a06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bourke St and Elizabeth St",
+        "coordinates": "['144.963033', '-37.814497']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963033,
+          -37.814497
+        ],
+        "type": "Point"
+      },
+      "id": "1f038d31eda938a11c7e28e8f2b9bf19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lonsdale St and Russell St",
+        "coordinates": "['144.967062', '-37.810793']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.967062,
+          -37.810793
+        ],
+        "type": "Point"
+      },
+      "id": "26984bbaed68ceefe35fd6744a806ecb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders Lane",
+        "coordinates": "['144.963377', '-37.81765']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963377,
+          -37.81765
+        ],
+        "type": "Point"
+      },
+      "id": "2acb929890632f6021dd7e2175898ffb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "St Kilda Rd",
+        "coordinates": "['144.968076', '-37.819192']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.968076,
+          -37.819192
+        ],
+        "type": "Point"
+      },
+      "id": "2b6fe6b488e969740c59c93aa06f0cee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bourke St and King St",
+        "coordinates": "['144.955866', '-37.816158']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955866,
+          -37.816158
+        ],
+        "type": "Point"
+      },
+      "id": "3c72c4f6ea2de05f93e5dc3dc8bb8061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Little Bourke St and Russell St",
+        "coordinates": "['144.967818', '-37.811666']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.967818,
+          -37.811666
+        ],
+        "type": "Point"
+      },
+      "id": "413ef6551169d4c9598ad6fe9a4978b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Yarra River",
+        "coordinates": "['144.962153', '-37.819921']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962153,
+          -37.819921
+        ],
+        "type": "Point"
+      },
+      "id": "497e58e2b7920d3dcd16d6aeac630924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders St",
+        "coordinates": "['144.956403', '-37.820802']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956403,
+          -37.820802
+        ],
+        "type": "Point"
+      },
+      "id": "4ae789b4dc42d03bee36fe63ce63682b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Collins St and King St",
+        "coordinates": "['144.956939', '-37.818548']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956939,
+          -37.818548
+        ],
+        "type": "Point"
+      },
+      "id": "4af7b6d3d8a497d96e09b32b3a7367ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lonsdale St",
+        "coordinates": "['144.961123', '-37.812835']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961123,
+          -37.812835
+        ],
+        "type": "Point"
+      },
+      "id": "544cb0358493407d394b271c255eae32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Little Collins St and Kings St",
+        "coordinates": "['144.955909', '-37.817311']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955909,
+          -37.817311
+        ],
+        "type": "Point"
+      },
+      "id": "58b6e6a9d32962ddf6a65e63693f35d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Elizabeth St and Collins St",
+        "coordinates": "['144.964192', '-37.816073']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964192,
+          -37.816073
+        ],
+        "type": "Point"
+      },
+      "id": "5dc7ff1ef87094c27e8a1f19e0e2a180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bourke St and Swanston St",
+        "coordinates": "['144.965801', '-37.813429']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965801,
+          -37.813429
+        ],
+        "type": "Point"
+      },
+      "id": "649f1f755c027c4cd929ca58ba6bc223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Queens Bridge St",
+        "coordinates": "['144.961617', '-37.821192']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961617,
+          -37.821192
+        ],
+        "type": "Point"
+      },
+      "id": "64e9857b4186b337cc782bd13b68a4fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Latrobe St and Swanston St",
+        "coordinates": "['144.963838', '-37.809699']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963838,
+          -37.809699
+        ],
+        "type": "Point"
+      },
+      "id": "68711bf24d714ba088cfef3acd4a2a31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Spencer St and Flinders St",
+        "coordinates": "['144.955201', '-37.820836']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955201,
+          -37.820836
+        ],
+        "type": "Point"
+      },
+      "id": "70ebce122591a0b5360c74e8705aaaca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Russell St and Bourke St",
+        "coordinates": "['144.968441', '-37.812937']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.968441,
+          -37.812937
+        ],
+        "type": "Point"
+      },
+      "id": "74a2df06c5f05475070eec280346df94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders St",
+        "coordinates": "['144.96711', '-37.817819']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96711,
+          -37.817819
+        ],
+        "type": "Point"
+      },
+      "id": "79604704b44aa9b40f425dc7aa5b545b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Exhibition St and Collins Street",
+        "coordinates": "['144.971831', '-37.814175']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.971831,
+          -37.814175
+        ],
+        "type": "Point"
+      },
+      "id": "7b349237f99b51fdfe0340b4bb3fe5ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Russell St and Flinders St",
+        "coordinates": "['144.970028', '-37.816565']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.970028,
+          -37.816565
+        ],
+        "type": "Point"
+      },
+      "id": "86578aea94e76118481a24debd84716b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "History Walk",
+        "coordinates": "['144.945266', '-37.816361']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.945266,
+          -37.816361
+        ],
+        "type": "Point"
+      },
+      "id": "87ea9a4693d65b327bd5691fcd50fd72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Latrobe St and William St",
+        "coordinates": "['144.956489', '-37.811602']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956489,
+          -37.811602
+        ],
+        "type": "Point"
+      },
+      "id": "8c26886d40d00cb0583011f2ab7572bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mcllwraith Place",
+        "coordinates": "['144.971724', '-37.81192']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.971724,
+          -37.81192
+        ],
+        "type": "Point"
+      },
+      "id": "8f000ae4490227ca25c6974422f87691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Clarendon St",
+        "coordinates": "['144.965372', '-37.821921']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965372,
+          -37.821921
+        ],
+        "type": "Point"
+      },
+      "id": "90df076ed0592ee5c0d762062b62bf20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders St and King St",
+        "coordinates": "['144.957519', '-37.820531']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.957519,
+          -37.820531
+        ],
+        "type": "Point"
+      },
+      "id": "91344cc90640697c7e83f1c84b747244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Swanston St and Little Collins St",
+        "coordinates": "['144.965951', '-37.814666']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965951,
+          -37.814666
+        ],
+        "type": "Point"
+      },
+      "id": "a0bbaf8d39d07825696c7814db8006b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "King St and Lonsdale St",
+        "coordinates": "['144.954622', '-37.814293']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.954622,
+          -37.814293
+        ],
+        "type": "Point"
+      },
+      "id": "aad590931e6e2f8c761f1d0a88109da9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bourke St and Spencer St",
+        "coordinates": "['144.953442', '-37.816887']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.953442,
+          -37.816887
+        ],
+        "type": "Point"
+      },
+      "id": "b0f3f53408e10a3659befb4e136048fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Swanston St",
+        "coordinates": "['144.964447', '-37.810843']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964447,
+          -37.810843
+        ],
+        "type": "Point"
+      },
+      "id": "b1c2ab2ed802ede5f3c44716a6f3bcab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Elizabeth St and Latrobe St",
+        "coordinates": "['144.961429', '-37.810187']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961429,
+          -37.810187
+        ],
+        "type": "Point"
+      },
+      "id": "b507666f4bd6fc94ff59d050900fb241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Exhibition St and Lonsdale St",
+        "coordinates": "['144.969739', '-37.809903']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.969739,
+          -37.809903
+        ],
+        "type": "Point"
+      },
+      "id": "b57f0744eba0a477b8897c137ada8191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "King St and Lonsdale St",
+        "coordinates": "['144.955115', '-37.814547']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955115,
+          -37.814547
+        ],
+        "type": "Point"
+      },
+      "id": "b626deed494ac603cde54606db81ca52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Russell St and Collins St",
+        "coordinates": "['144.969127', '-37.814514']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.969127,
+          -37.814514
+        ],
+        "type": "Point"
+      },
+      "id": "c1cbe79a0948908492495655dbcc1f66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Collins St and Kings St",
+        "coordinates": "['144.956553', '-37.818633']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956553,
+          -37.818633
+        ],
+        "type": "Point"
+      },
+      "id": "c710c362aa03b503c105e49406775d93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Harbour Esplanade",
+        "coordinates": "['144.945138', '-37.817056']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.945138,
+          -37.817056
+        ],
+        "type": "Point"
+      },
+      "id": "ca8175fadde723a46004b5e787a6e98d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "King St and Little Bourke St",
+        "coordinates": "['144.954987', '-37.815446']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.954987,
+          -37.815446
+        ],
+        "type": "Point"
+      },
+      "id": "d19ad7b5b2ad3e615e4498b92698655d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kings Way",
+        "coordinates": "['144.958248', '-37.821701']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.958248,
+          -37.821701
+        ],
+        "type": "Point"
+      },
+      "id": "d1ae44057a9ea0ed5e4c6427d5088ab5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders Lane and King St",
+        "coordinates": "['144.956832', '-37.819379']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956832,
+          -37.819379
+        ],
+        "type": "Point"
+      },
+      "id": "d760a9d93ee856a207856dcdcc173277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Birrarung Marr Park",
+        "coordinates": "['144.973462', '-37.81909']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.973462,
+          -37.81909
+        ],
+        "type": "Point"
+      },
+      "id": "dcf3283629df848e1348096ed6ea3479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Flinders St and Queen St",
+        "coordinates": "['144.962196', '-37.818751']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962196,
+          -37.818751
+        ],
+        "type": "Point"
+      },
+      "id": "dd1de76e6396269303998df5e67ffd61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Swanston St and Lonsdale St",
+        "coordinates": "['144.964557', '-37.811733']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964557,
+          -37.811733
+        ],
+        "type": "Point"
+      },
+      "id": "dedae9326462b9b70d22da075725d9b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Queen St and Bourke St",
+        "coordinates": "['144.960437', '-37.814887']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.960437,
+          -37.814887
+        ],
+        "type": "Point"
+      },
+      "id": "edd52cea24e05c440c8dbef88f50db5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Harbour Esplanade",
+        "coordinates": "['144.945481', '-37.818107']"
+      },
+      "geometry": {
+        "coordinates": [
+          144.945481,
+          -37.818107
+        ],
+        "type": "Point"
+      },
+      "id": "f02661ea99d58ca4ca0f13eab6e14671"
+    }
+  ],
+  "type": "FeatureCollection"
+}

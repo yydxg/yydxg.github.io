@@ -1,0 +1,245 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8115246,144.9633186",
+        "Name": "Melbourne Custody Centre",
+        "Location": "233 Lonsdale Street",
+        "Suburb": "Melbourne",
+        "Postcode": "3000",
+        "Phone": "(03) 96287888",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963318,
+          -37.811524
+        ],
+        "type": "Point"
+      },
+      "id": "093e52bf16412c21426b06e994f8dac3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8174493,144.9973897",
+        "Name": "Richmond Police Station ",
+        "Location": "217 Church Street",
+        "Suburb": "Richmond",
+        "Postcode": "3121",
+        "Phone": "(03) 84203600",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.997389,
+          -37.817449
+        ],
+        "type": "Point"
+      },
+      "id": "16703bc08a932fada443f35e952c3339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.800308,144.9523769",
+        "Name": "Melbourne North",
+        "Location": "36 Wreckyn Street",
+        "Suburb": "North Melbourne",
+        "Postcode": "3051",
+        "Phone": "(03) 83790800",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.952376,
+          -37.800308
+        ],
+        "type": "Point"
+      },
+      "id": "48ae7ca7e4a11cb4199a992499483ff8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8175985,144.9645287",
+        "Name": "Flinders Street Railway Station PS",
+        "Location": "226 Flinders Street",
+        "Suburb": "Melbourne",
+        "Postcode": "3000",
+        "Phone": "(03) 96371100",
+        "Open": "Non-24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964528,
+          -37.817598
+        ],
+        "type": "Point"
+      },
+      "id": "56ec6e3bafcf6160f09a59b0fc9b941a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8115698,144.9559834",
+        "Name": "Australian Federal Police ",
+        "Location": "383 La Trobe Street",
+        "Suburb": "Melbourne",
+        "Postcode": "3000",
+        "Phone": "(03) 96077777",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955983,
+          -37.811569
+        ],
+        "type": "Point"
+      },
+      "id": "66567403f09a2329b4fb4df934a002dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8139094,144.949304",
+        "Name": "Melbourne West",
+        "Location": "313 Spencer Street",
+        "Suburb": "Docklands",
+        "Postcode": "3008",
+        "Phone": "(03) 86904444",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.949304,
+          -37.813909
+        ],
+        "type": "Point"
+      },
+      "id": "9b67fb946fbf43c9b4bc7e710b9af789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8129604,144.9564782",
+        "Name": "Melbourne Prosecutions Division",
+        "Location": "456 Lonsdale Street",
+        "Suburb": "Melbourne",
+        "Postcode": "3000",
+        "Phone": "(03) 86283200, (03) 86283270",
+        "Open": "Non-24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956478,
+          -37.81296
+        ],
+        "type": "Point"
+      },
+      "id": "9f8fce67e6ebae7b9fdd6843192cfde5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8349233,144.9574013",
+        "Name": "South Melbourne",
+        "Location": "211 Bank Street",
+        "Suburb": "South Melbourne",
+        "Postcode": "3205",
+        "Phone": "(03) 92573800",
+        "Open": "24 hrs (On Telephone)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.957401,
+          -37.834923
+        ],
+        "type": "Point"
+      },
+      "id": "a961e255c82208c5279ed0ffb3daf770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8022264,144.9770013",
+        "Name": "Fitzroy Police Station",
+        "Location": "13 Condell Street",
+        "Suburb": "Fitzroy",
+        "Postcode": "3065",
+        "Phone": "(03) 99346400",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.977001,
+          -37.802226
+        ],
+        "type": "Point"
+      },
+      "id": "b943dfd097753f6cc75b7b807df7396c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.828319,144.9587501",
+        "Name": "Southbank",
+        "Location": "66 Moray Street",
+        "Suburb": "Southbank",
+        "Postcode": "3006",
+        "Phone": "(03) 86350900",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.95875,
+          -37.828319
+        ],
+        "type": "Point"
+      },
+      "id": "c15295bf7a34c4581b63ca9e6e412336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8126163,144.9649751",
+        "Name": "Melbourne East",
+        "Location": "202 Bourke Street",
+        "Suburb": "Melbourne East",
+        "Postcode": "3000",
+        "Phone": "(03) 96371100",
+        "Open": "24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964975,
+          -37.812616
+        ],
+        "type": "Point"
+      },
+      "id": "f0ca20271206db835ab16342d40f2123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coordinates": "-37.8191282,144.955409",
+        "Name": "Australian Traffic Network",
+        "Location": "Level 44, Rialto Tower, 525 Collins Street",
+        "Suburb": "Melbourne",
+        "Postcode": "3000",
+        "Phone": "(03) 99359510",
+        "Open": "Non-24 hrs"
+      },
+      "geometry": {
+        "coordinates": [
+          144.955409,
+          -37.819128
+        ],
+        "type": "Point"
+      },
+      "id": "fdbca75ce355aed721e60633937d5ba9"
+    }
+  ],
+  "type": "FeatureCollection"
+}
